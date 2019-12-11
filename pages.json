@@ -1,0 +1,96 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "切尔斯club"
+			}
+		},
+		{
+			"path": "pages/login",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}, {
+			"path": "pages/bar/bar",
+			"style": {
+
+			}
+		}, {
+			"path": "pages/bar/detail/detail",
+			"style": {
+				"navigationBarTitleText": "酒吧详情"
+			}
+		}, {
+			"path": "pages/taxi/taxi",
+			"style": {
+				"navigationBarTitleText": "专车服务"
+			}
+		}, {
+			"path": "pages/bar/reservation/reservation",
+			"style": {
+
+			}
+		}, {
+			"path": "pages/mine/reservation/reservation",
+			"style": {
+				"navigationBarTitleText": "酒吧预约"
+			}
+		}, {
+			"path": "pages/mine/reservation/detail",
+			"style": {
+				"navigationBarTitleText": "预约详情"
+			}
+		}, {
+			"path": "pages/mine/income/income",
+			"style": {
+				"navigationBarTitleText": "我的收入"
+			}
+		},
+		{
+			"path": "pages/mine/income/detail",
+			"style": {
+				"navigationBarTitleText": "收入详情"
+			}
+		}
+
+	    ,{
+            "path" : "pages/mine/taxiList/taxiList",
+            "style" : {
+				"navigationBarTitleText": "专车预约"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+	// ,
+	// "tabBar": {
+	// 	"selectedColor": "#FF1C61",
+	// 	"color": "#989898",
+	// 	"backgroundColor": "#2A3B4D",
+	// 	"height":"56px",
+	// 	"list": [{
+	// 			"iconPath": "static/tabbar/index.png",
+	// 			"selectedIconPath": "static/tabbar/index-sel.png",
+	// 			"pagePath": "pages/index/index",
+	// 			"text": "首页"
+	// 		},
+	// 		{
+	// 			"iconPath": "static/tabbar/mine.png",
+	// 			"selectedIconPath": "static/tabbar/mine-sel.png",
+	// 			"pagePath": "pages/mine/mine",
+	// 			"text": "我的"
+	// 		}
+	// 	]
+	// }
+}
